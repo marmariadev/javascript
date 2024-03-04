@@ -49,4 +49,3 @@
 - **Code Quality**: Use of linters (ESLint), code formatting tools (Prettier).
 - **Performance Optimization**: Lazy loading, debouncing, and throttling.
 - **Security**: Avoiding eval(), sanitizing user input.
-# javascript
